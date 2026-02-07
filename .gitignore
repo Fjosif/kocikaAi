@@ -1,0 +1,10 @@
+.gradle/
+build/
+app/build/
+.idea/
+*.iml
+local.properties
+bin/
+obj/
+out/
+appsettings.Development.json
