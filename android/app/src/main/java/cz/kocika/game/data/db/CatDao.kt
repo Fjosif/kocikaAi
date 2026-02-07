@@ -2,6 +2,7 @@ package cz.kocika.game.data.db
 
 import androidx.room.*
 import cz.kocika.game.model.CatState
+import cz.kocika.game.model.AppSettings
 import kotlinx.coroutines.flow.Flow
 
 @Dao
